@@ -1,0 +1,107 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+
+venv/
+env/
+.venv/
+cricket311/
+
+# Environment Variables
+
+.env
+.env.local
+
+# IDE
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Build
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Model Weights
+
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# YOLO Training Outputs
+
+runs/
+
+# Generated Outputs
+
+output/
+outputs/
+
+# Uploaded Videos
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Temporary Files
+
+temp*
+tmp*
+*.tmp
+
+# Cached Data
+
+.cache/
+*.cache
+
+# Numpy Reference Dumps (optional)
+
+# Uncomment if you don't want to push reference poses
+
+# reference_poses/*.npy
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# MacOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# MediaPipe / TensorFlow caches
+
+.mediapipe/
+tensorflow_logs/
+
+# Roboflow datasets
+
+datasets/
+data/
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# pytest
+
+.pytest_cache/
