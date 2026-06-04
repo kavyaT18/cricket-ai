@@ -1,7 +1,7 @@
 
 ultralytics==8.2.0          
 opencv-python==4.9.0.80     
- mediapipe==0.10.20
+mediapipe==0.10.35
 
 
 torch==2.3.0
