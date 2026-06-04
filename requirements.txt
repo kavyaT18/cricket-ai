@@ -1,7 +1,7 @@
 streamlit
-numpy
-Pillow
-matplotlib
+pillow>=10.4.0
+numpy>=2.1.0
+matplotlib>=3.9.2
 seaborn
 opencv-python-headless
 groq
