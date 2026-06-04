@@ -1,11 +1,11 @@
 
 ultralytics==8.2.0          
-opencv-python==4.9.0.80     
+opencv-python-headless==4.9.0.80    
 mediapipe==0.10.35
 
 
-torch==2.3.0
-torchvision==0.18.0
+torch==2.2.2
+torchvision==0.17.2
 efficientnet-pytorch==0.7.1  
 
 
