@@ -8,3 +8,4 @@ groq
 httpx
 python-dotenv
 fastdtw
+mediapipe>=0.10.35
